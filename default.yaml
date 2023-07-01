@@ -1,0 +1,5 @@
+allow-lan: true
+external-controller: :9091
+log-level: info
+mode: Global
+port: 7890
